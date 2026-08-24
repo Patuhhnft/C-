@@ -1,0 +1,1 @@
+// Este arquivo é uma parte simples, só para suprir um arquivo de código para o projeto. Ele não faz nada de útil, mas serve como um exemplo de como estruturar um arquivo C#.
